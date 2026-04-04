@@ -1,0 +1,19 @@
+{
+  "name": "mapend-trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "android": "pnpm --filter starter run android"
+  },
+  "dependencies": {
+    "expo": "~55.0.11",
+    "react": "19.2.4",
+    "react-native": "0.84.1"
+  },
+  "author": "Touhid Mia",
+  "packageManager": "pnpm@10.33.0",
+  "devDependencies": {
+    "@types/node": "^25.3.2"
+  }
+}
