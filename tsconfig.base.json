@@ -14,6 +14,7 @@
       "mapend": ["dependencies/mapend"],
       "mapend-core": ["dependencies/mapend-core"],
       "mmcore": ["dependencies/mmcore"],
+      "mmcore-fs": ["dependencies/mmcore-fs"],
     }
   },
   "include": ["**/*.ts", "**/*.tsx"],

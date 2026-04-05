@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "android": "pnpm --filter starter run android"
+    "android": "pnpm --filter starter run android",
+    "setup-project": "pnpm --filter mmcore-fs run setup-project"
   },
   "dependencies": {
     "expo": "~55.0.11",
