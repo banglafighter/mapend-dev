@@ -12,6 +12,7 @@ dependencies:
         - url: https://github.com/banglafighter/mmcore.git
         - url: https://github.com/banglafighter/mmcore-ui.git
         - url: https://github.com/banglafighter/mapend.git
+        - url: https://github.com/banglafighter/mapend-core.git
         - url: https://github.com/banglafighter/mapend-ui.git
         - url: https://github.com/banglafighter/mapend-default-ui.git
         - url: https://github.com/banglafighter/mapend-cli.git
