@@ -1,8 +1,11 @@
+import {getCommandRoot, joinPath, loadYmlConfig} from "mmcore-fs";
+
 export default ({config}) => {
+    const yamlPath = joinPath(getCommandRoot(), 'env/env.yml')
     return {
         ...config,
         extra: {
-            appConfig: process.env.API_URL,
+            appConfig: loadYmlConfig(yamlPath, {}),
         },
     };
 };
