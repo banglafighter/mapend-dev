@@ -13,8 +13,10 @@
     "paths": {
       "mapend": ["dependencies/mapend"],
       "mapend-core": ["dependencies/mapend-core"],
+      "mapend-default-ui": ["dependencies/mapend-default-ui"],
+      "mapend-ui": ["dependencies/mapend-ui"],
       "mmcore": ["dependencies/mmcore"],
-      "mmcore-fs": ["dependencies/mmcore-fs"],
+      "mmcore-fs": ["dependencies/mmcore-fs"]
     }
   },
   "include": ["**/*.ts", "**/*.tsx"],
