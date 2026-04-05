@@ -10,6 +10,7 @@
   "dependencies": {
     "mapend": "workspace:*",
     "mmcore": "workspace:*",
+    "mapend-core": "workspace:*",
     "mapend-ui": "workspace:*",
     "mapend-default-ui": "workspace:*",
     "expo": "~55.0.11",

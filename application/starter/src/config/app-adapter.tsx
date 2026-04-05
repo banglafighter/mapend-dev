@@ -4,11 +4,7 @@ import {UIAdapterData} from "mapend-ui";
 
 export default class AppAdapter extends MAdapter {
     setCentralUI() {
-        throw new Error("Method not implemented.");
-    }
-
-    setSuspense() {
-        throw new Error("Method not implemented.");
+        return (<></>)
     }
 
     setUIAdapter(): UIAdapterData {
