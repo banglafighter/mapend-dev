@@ -16,6 +16,7 @@
       "mapend-default-ui": ["dependencies/mapend-default-ui"],
       "mapend-ui": ["dependencies/mapend-ui"],
       "mmcore": ["dependencies/mmcore"],
+      "mmcore-ui": ["dependencies/mmcore-ui"],
       "mmcore-fs": ["dependencies/mmcore-fs"]
     }
   },
